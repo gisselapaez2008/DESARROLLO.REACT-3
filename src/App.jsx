@@ -7,8 +7,10 @@ function App() {
       <h1>Hola, soy Gissela Páez</h1>
 
       <p className="descripcion">
-        Tengo 18 años y soy estudiante de tercer semestre
-        de Ingeniería de Sistemas.
+        Soy estudiante de Ingeniería de Sistemas y estoy desarrollando
+        conocimientos en programación, desarrollo web y nuevas tecnologías.
+        Este proyecto representa una práctica para aprender React y mejorar
+        mis habilidades en el desarrollo de interfaces modernas.
       </p>
 
       <img
